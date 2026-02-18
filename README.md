@@ -1,5 +1,35 @@
 # 💫 About Me:
-# 💫 About Me:<br>🔭 I’m currently working on  <br>Designing and building **production-grade full-stack applications** using the **MERN stack**, with a strong emphasis on **modular architecture**, **secure authentication & authorization (JWT)**, **payment workflows (Razorpay)**, **API versioning**, and **scalable RESTful services**.  <br>In parallel, I’m working on my **B.E. final-year project**, where I apply **algorithmic optimization**, **data-driven modeling**, and **system-level performance analysis** to solve an engineering problem using a software-first approach.<br><br>👯 I’m looking to collaborate on  <br>**Software engineering projects** focused on **real-world problem solving**, including **sustainability platforms**, **fintech systems**, **healthcare applications**, and **data-intensive web products**—especially those that prioritize **clean architecture**, **scalability**, **performance**, and **maintainable codebases**.<br><br>🤝 I’m looking for help with  <br>**Backend system design**, **API scalability patterns**, **database indexing & query optimization**, **distributed system fundamentals**, and **best practices for deploying, monitoring, and securing applications** in cloud environments (**AWS / GCP**).<br><br>🌱 I’m currently learning  <br>- **Advanced SQL** (window functions, execution plans, indexing strategies)  <br>- **React internals**, rendering lifecycle & performance optimization  <br>- **Backend scalability patterns** (pagination, caching, rate limiting, async processing)  <br>- **Applied machine learning concepts** for optimization problems  <br>- **Interview-oriented DSA** with real-world system mapping  <br><br>💬 Ask me about  <br>**REST API design**, **MongoDB & SQL schema modeling**, **authentication & role-based access control**, **payment gateway integrations**, **Git/GitHub workflows**, **debugging production issues**, and **translating problem statements into scalable software solutions**.<br><br>⚡ Fun fact  <br>I enjoy decomposing **complex systems into well-defined modules**—whether it’s backend services, data pipelines, or algorithmic problems—and explaining them with clarity and precision.<br><br>---<br><br>## 🚀 Recent Project:<br>### **ML-Based Trajectory Optimization for UAV-Enabled 5G Communication**<br>- Developing an **ML-driven trajectory optimization system** to dynamically plan UAV flight paths, aiming to improve **5G network coverage**, **throughput**, and **latency efficiency**.  <br>- Modeling the problem as a **constraint-based optimization task**, incorporating **energy constraints**, **coverage requirements**, and **mobility-aware decision making**.  <br>- Implementing **data preprocessing pipelines**, **feature engineering**, and **model evaluation workflows** to support intelligent trajectory selection.  <br>- Applying **algorithmic optimization**, **simulation-based validation**, and **performance benchmarking**, strengthening skills in **problem decomposition**, **scalable computation**, and **system-level reasoning** relevant to SDE roles.<br>
+🔭 I’m currently working on  
+Designing and building **production-grade full-stack applications** using the **MERN stack**, with a strong emphasis on **modular and layered architecture**, **secure authentication & authorization (JWT)**, **payment workflows (Razorpay)**, **API versioning**, **input validation**, and **scalable RESTful services**.  
+In parallel, I’m working on my **B.E. final-year project**, where I apply **algorithmic optimization**, **data-driven modeling**, and **system-level performance analysis** to solve an engineering problem through a **software-first, problem-solving approach**.
+
+👯 I’m looking to collaborate on  
+**Software engineering projects** focused on **real-world problem solving**, including **sustainability platforms**, **fintech systems**, **healthcare applications**, and **data-intensive web products**—especially those that prioritize **clean architecture**, **scalability**, **performance optimization**, and **maintainable codebases**.
+
+🤝 I’m looking for help with  
+**Backend system design**, **API scalability patterns**, **database indexing & query optimization**, **distributed system fundamentals**, and **best practices for deploying, monitoring, and securing applications** in cloud environments (**AWS / GCP**).
+
+🌱 I’m currently learning  
+- **Advanced SQL** (window functions, execution plans, indexing strategies)  
+- **React internals**, rendering lifecycle, and performance optimization  
+- **Backend scalability patterns** (pagination, caching, rate limiting, async & event-driven processing)  
+- **Applied machine learning concepts** for optimization and decision-making problems  
+- **Interview-oriented DSA** with real-world system and backend use-case mapping  
+
+💬 Ask me about  
+**REST API design**, **MongoDB & SQL schema modeling**, **authentication & role-based access control**, **payment gateway integrations**, **Git/GitHub workflows**, **debugging production issues**, and **translating problem statements into scalable, production-ready software solutions**.
+
+⚡ Fun fact  
+I enjoy decomposing **complex systems into well-defined, reusable components**—whether it’s backend services, data pipelines, or algorithmic problems—and explaining them with clarity and precision.
+
+---
+
+## 🚀 Recent Project:
+### **ML-Based Trajectory Optimization for UAV-Enabled 5G Communication**
+- Building an **ML-driven trajectory optimization system** to dynamically plan UAV flight paths with the goal of improving **5G network coverage**, **throughput**, and **latency efficiency**.  
+- Framing the problem as a **constraint-based optimization model**, incorporating **energy constraints**, **coverage guarantees**, **mobility dynamics**, and **QoS requirements**.  
+- Designing **data preprocessing pipelines**, **feature engineering workflows**, and **model evaluation metrics** to support intelligent trajectory selection.  
+- Applying **algorithmic optimization**, **simulation-based validation**, and **performance benchmarking**, strengthening skills in **problem decomposition**, **scalable computation**, and **system-level reasoning** aligned with **SDE roles**.
 
 
 ## 🌐 Socials:
